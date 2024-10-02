@@ -58,6 +58,6 @@ Check out the live version of **PriseWise**: [https://your-deployed-link-here.co
 
 1. **Clone the repo**:  
    ```bash
-   git clone https://github.com/divyanshuu8/web-Scraper.git)
+   git clone https://github.com/divyanshuu8/web-Scraper.git
    npm install
    npm run dev
